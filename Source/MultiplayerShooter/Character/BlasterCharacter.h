@@ -11,6 +11,7 @@ class UCameraComponent;
 class UInputAction;
 class UInputMappingContext;
 struct FInputActionValue;
+class UWidgetComponent;
 
 UCLASS()
 class MULTIPLAYERSHOOTER_API ABlasterCharacter : public ACharacter
